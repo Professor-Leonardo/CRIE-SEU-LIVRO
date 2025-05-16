@@ -1,7 +1,7 @@
 # CRIE-SEU-LIVRO
 Material da Palestra - CRIE SEU LIVRO UTILIZANDO I.A.
 
-O livro é uma das invenções mais importantes da humanidade! Ele contém conhecimento, representa a cultura, a história e a alma das civilizações.
+**O livro é uma das invenções mais importantes da humanidade! Ele contém conhecimento, representa a cultura, a história e a alma das civilizações.**
 
 Cada elemento de um livro tem um papel essencial em sua estrutura. Tudo precisa estar devidamente no seu lugar para que a mágica aconteça. Veja na ilustração qual é a estrutura base de um livro. 
 
